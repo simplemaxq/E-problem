@@ -7,4 +7,5 @@
 通讯协议类似“#P1=xx.x!”,发送给下位机  
 ***
 喜欢的话欢迎支持  
+github主页[主页](https://github.com/simplemaxq)  
 bilibili主页[主页](https://space.bilibili.com/419762243?spm_id_from=333.880.0.0)
